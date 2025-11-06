@@ -19,8 +19,8 @@ EXCLUDE_KEYWORDS = [
     "physikalische chemie",
     "mechanik: dynamik",
     "thermodynamik",
-    "Elektrotechnik (Vorbereitung Kammerprüfung)",
-    "Metallbau (Vorbereitung Kammerprüfung)",
+    "Elektrotechnik",
+    "Metallbau",
 ]
 
 # ==============================
