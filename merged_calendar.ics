@@ -37,42 +37,6 @@ PRIORITY:5
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elektrotechnik (Vorbereitung KammerprÃ¼fung)
-DTSTART;TZID=Europe/Berlin:20251104T154500
-DTEND;TZID=Europe/Berlin:20251104T190000
-DTSTAMP:20251106T130130Z
-UID:sked.de289974
-SEQUENCE:0
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DESCRIPTION:Veranstaltung: Elektrotechnik (Vorbereitung KammerprÃ¼fung)\
- nDozent: Gerdes\nDatum: Di\, 04.11.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 
- 4:00 Uhr\nArt: PV\nRaum: KD0004\nStudiengruppe: 24BTS-CPV-3\, 24BTS-EAT-3\
- , 24BTS-MAS-3\, 24BTS-MEC-3\, 24BTS-TIN-3\, 24DNE1-3\, 24DNE2-3\nAnmerkung
- : -
-LOCATION:KD0004
-PRIORITY:5
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elektrotechnik (Vorbereitung KammerprÃ¼fung)
-DTSTART;TZID=Europe/Berlin:20251106T154500
-DTEND;TZID=Europe/Berlin:20251106T190000
-DTSTAMP:20251106T130130Z
-UID:sked.de290752
-SEQUENCE:0
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DESCRIPTION:Veranstaltung: Elektrotechnik (Vorbereitung KammerprÃ¼fung)\
- nDozent: Gerdes\nDatum: Do\, 06.11.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 
- 4:00 Uhr\nArt: PV\nRaum: KD0105\nStudiengruppe: 24BTS-CPV-3\, 24BTS-EAT-3\
- , 24BTS-MAS-3\, 24BTS-MEC-3\, 24BTS-TIN-3\, 24DNE1-3\, 24DNE2-3\nAnmerkung
- : -
-LOCATION:KD0105
-PRIORITY:5
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:RechnergestÃ¼tztes Konstruieren
 DTSTART;TZID=Europe/Berlin:20251107T081500
 DTEND;TZID=Europe/Berlin:20251107T113000
@@ -102,41 +66,6 @@ DESCRIPTION:Veranstaltung: Statistik\nDozent: Grunwald\nDatum: Di\, 11.11.
  25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KA0005\nSt
  udiengruppe: 24BTS-CPV-3\, 24BTS-MAS-3\nAnmerkung: -
 LOCATION:KA0005
-PRIORITY:5
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elektrotechnik (Vorbereitung KammerprÃ¼fung)
-DTSTART;TZID=Europe/Berlin:20251111T154500
-DTEND;TZID=Europe/Berlin:20251111T190000
-DTSTAMP:20251106T130130Z
-UID:sked.de290753
-SEQUENCE:0
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DESCRIPTION:Veranstaltung: Elektrotechnik (Vorbereitung KammerprÃ¼fung)\
- nDozent: Gerdes\nDatum: Di\, 11.11.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 
- 4:00 Uhr\nArt: PV\nRaum: KD0001\nStudiengruppe: 24BTS-CPV-3\, 24BTS-EAT-3\
- , 24BTS-MAS-3\, 24BTS-MEC-3\, 24BTS-TIN-3\, 24DNE1-3\, 24DNE2-3\nAnmerkung
- : -
-LOCATION:KD0001
-PRIORITY:5
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Metallbau (Vorbereitung KammerprÃ¼fung)
-DTSTART;TZID=Europe/Berlin:20251112T154500
-DTEND;TZID=Europe/Berlin:20251112T190000
-DTSTAMP:20251106T130130Z
-UID:sked.de290613
-SEQUENCE:0
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DESCRIPTION:Veranstaltung: Metallbau (Vorbereitung KammerprÃ¼fung)\nDoze
- nt: Scholz\nDatum: Mi\, 12.11.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 
- Uhr\nArt: PV\nRaum: KE0101\nStudiengruppe: 24BTS-CPV-3\, 24BTS-EAT-3\, 24B
- TS-MAS-3\, 24BTS-MEC-3\, 24BTS-TIN-3\, 24DNE1-3\, 24DNE2-3\nAnmerkung: -
-LOCATION:KE0101
 PRIORITY:5
 TRANSP:OPAQUE
 END:VEVENT
@@ -278,24 +207,6 @@ PRIORITY:5
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Elektrotechnik (Vorbereitung KammerprÃ¼fung)
-DTSTART;TZID=Europe/Berlin:20251125T154500
-DTEND;TZID=Europe/Berlin:20251125T190000
-DTSTAMP:20251106T130130Z
-UID:sked.de290754
-SEQUENCE:0
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DESCRIPTION:Veranstaltung: Elektrotechnik (Vorbereitung KammerprÃ¼fung)\
- nDozent: Gerdes\nDatum: Di\, 25.11.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 
- 4:00 Uhr\nArt: PV\nRaum: KD0004\nStudiengruppe: 24BTS-CPV-3\, 24BTS-EAT-3\
- , 24BTS-MAS-3\, 24BTS-MEC-3\, 24BTS-TIN-3\, 24DNE1-3\, 24DNE2-3\nAnmerkung
- : -
-LOCATION:KD0004
-PRIORITY:5
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Technische Physik - Physikalische Modelle
 DTSTART;TZID=Europe/Berlin:20251127T154500
 DTEND;TZID=Europe/Berlin:20251127T190000
@@ -376,24 +287,6 @@ DESCRIPTION:Veranstaltung: RechnergestÃ¼tztes Konstruieren\nDozent: Leon
  rt: SV\nRaum: LW0114\nStudiengruppe: 24BTS-CPV-3\, 24BTS-EAT-3\, 24BTS-MEC
  -3\, 24BTS-TIN-3\nAnmerkung: -
 LOCATION:LW0114
-PRIORITY:5
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elektrotechnik (Vorbereitung KammerprÃ¼fung)
-DTSTART;TZID=Europe/Berlin:20251203T154500
-DTEND;TZID=Europe/Berlin:20251203T190000
-DTSTAMP:20251106T130130Z
-UID:sked.de290755
-SEQUENCE:0
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DESCRIPTION:Veranstaltung: Elektrotechnik (Vorbereitung KammerprÃ¼fung)\
- nDozent: Gerdes\nDatum: Mi\, 03.12.25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 
- 4:00 Uhr\nArt: PV\nRaum: KD0004\nStudiengruppe: 24BTS-CPV-3\, 24BTS-EAT-3\
- , 24BTS-MAS-3\, 24BTS-MEC-3\, 24BTS-TIN-3\, 24DNE1-3\, 24DNE2-3\nAnmerkung
- : -
-LOCATION:KD0004
 PRIORITY:5
 TRANSP:OPAQUE
 END:VEVENT
