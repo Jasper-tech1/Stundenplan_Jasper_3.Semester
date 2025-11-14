@@ -20,7 +20,7 @@ EXCLUDE_KEYWORDS = [
     "thermodynamik",
     "Elektrotechnik",
     "Metallbau",
-    "Konstruieren"
+    "Rechnergestütztes Konstruieren"
 ]
 
 # ==============================
