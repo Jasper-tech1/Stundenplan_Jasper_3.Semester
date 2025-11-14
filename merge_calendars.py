@@ -19,23 +19,36 @@ EXCLUDE_KEYWORDS = [
     "thermodynamik",
     "elektrotechnik",
     "metallbau",
-    "rechnergestütz",   # <- fängt ALLES ab, inkl. Konstruieren, Konstruktion, etc.
+    "rechnergestütz",   # korrekt geschrieben, wir normalisieren unten
 ]
 
 # ==============================
 # HILFSFUNKTIONEN
 # ==============================
 
+def normalize_encoding(s: str) -> str:
+    """
+    Behebt typische UTF-8/Latin-1-Mojibake wie 'Ã¼' -> 'ü'.
+    """
+    if not s:
+        return ""
+    s = s.replace("Ã¼", "ü").replace("Ã¶", "ö").replace("Ã¤", "ä")
+    s = s.replace("ÃŸ", "ß")
+    return s
+
+
 def normalize_summary(summary: str) -> str:
     """
     Vereinfacht den Titel:
-    - entfernt alles in Klammern (Gruppen etc.)
-    - reduziert Leerzeichen
-    - alles klein
+    - Encoding korrigieren
+    - alles in Klammern entfernen
+    - Mehrfach-Leerzeichen reduzieren
+    - klein schreiben
     """
     if not summary:
         return ""
     s = str(summary)
+    s = normalize_encoding(s)
     s = re.sub(r"\([^)]*\)", "", s)
     s = re.sub(r"\s+", " ", s)
     return s.strip().lower()
@@ -43,9 +56,9 @@ def normalize_summary(summary: str) -> str:
 
 def should_keep_event(summary: str) -> bool:
     """
-    Event behalten? Nur wenn KEIN Ausschluss-Keyword enthalten ist.
+    Event behalten? -> Ja, außer es enthält eins der EXCLUDE_KEYWORDS.
     """
-    s = (summary or "").lower()
+    s = normalize_encoding(summary or "").lower()
 
     for bad in EXCLUDE_KEYWORDS:
         if bad.lower() in s:
@@ -94,13 +107,11 @@ def build_merged_calendar() -> Calendar:
             if not should_keep_event(summary):
                 continue
 
-            # Startzeit holen
             dtstart = component.get("dtstart")
             if not dtstart:
                 continue
             dtstart = dtstart.dt
 
-            # Duplikat-Erkennung
             norm_title = normalize_summary(summary)
             key = (dtstart, norm_title)
 
