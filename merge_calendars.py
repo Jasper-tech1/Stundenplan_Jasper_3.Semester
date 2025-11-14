@@ -17,7 +17,6 @@ EXCLUDE_KEYWORDS = [
     "grundlagen data science",
     "englisch",
     "physikalische chemie",
-    "mechanik: dynamik",
     "thermodynamik",
     "Elektrotechnik",
     "Metallbau",
