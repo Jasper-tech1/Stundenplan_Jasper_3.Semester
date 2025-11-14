@@ -18,9 +18,10 @@ EXCLUDE_KEYWORDS = [
     "englisch",
     "physikalische chemie",
     "thermodynamik",
-    "Elektrotechnik",
-    "Metallbau",
-    "Rechnergestütztes Konstruieren"
+    "elektrotechnik",
+    "metallbau",
+    "rechnergestütz",  # <- neu, bewusst abgeschnitten
+]"
 ]
 
 # ==============================
