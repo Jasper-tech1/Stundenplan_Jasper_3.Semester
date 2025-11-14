@@ -6,13 +6,12 @@ from icalendar import Calendar
 # KONFIGURATION
 # ==============================
 
-# HIER deine Uni-Stundenplan-ICS-Links eintragen:
 FEED_URLS = [
     "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-CPV-3.ics",
     "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-EAT-3.ics",
 ]
 
-# Module, die du NICHT sehen willst:
+# Module, die du NICHT sehen willst
 EXCLUDE_KEYWORDS = [
     "grundlagen data science",
     "englisch",
@@ -20,8 +19,7 @@ EXCLUDE_KEYWORDS = [
     "thermodynamik",
     "elektrotechnik",
     "metallbau",
-    "rechnergestütz",  # <- neu, bewusst abgeschnitten
-]"
+    "rechnergestütz",   # <- fängt ALLES ab, inkl. Konstruieren, Konstruktion, etc.
 ]
 
 # ==============================
@@ -31,23 +29,21 @@ EXCLUDE_KEYWORDS = [
 def normalize_summary(summary: str) -> str:
     """
     Vereinfacht den Titel:
-    - entfernt alles in Klammern (Gruppenangaben etc.)
-    - reduziert Mehrfach-Leerzeichen
+    - entfernt alles in Klammern (Gruppen etc.)
+    - reduziert Leerzeichen
     - alles klein
-    -> hilft bei Duplikat-Erkennung
     """
     if not summary:
         return ""
     s = str(summary)
-
-    s = re.sub(r"\([^)]*\)", "", s)  # Klammern entfernen
-    s = re.sub(r"\s+", " ", s)       # Mehrfach-Leerzeichen
+    s = re.sub(r"\([^)]*\)", "", s)
+    s = re.sub(r"\s+", " ", s)
     return s.strip().lower()
 
 
 def should_keep_event(summary: str) -> bool:
     """
-    Event behalten? -> Ja, außer es enthält eins der EXCLUDE_KEYWORDS.
+    Event behalten? Nur wenn KEIN Ausschluss-Keyword enthalten ist.
     """
     s = (summary or "").lower()
 
@@ -94,14 +90,17 @@ def build_merged_calendar() -> Calendar:
             total_events += 1
             summary = str(component.get("summary", ""))
 
+            # Filter anwenden
             if not should_keep_event(summary):
                 continue
 
+            # Startzeit holen
             dtstart = component.get("dtstart")
             if not dtstart:
                 continue
             dtstart = dtstart.dt
 
+            # Duplikat-Erkennung
             norm_title = normalize_summary(summary)
             key = (dtstart, norm_title)
 
