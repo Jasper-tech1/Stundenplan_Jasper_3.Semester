@@ -18,8 +18,7 @@ EXCLUDE_KEYWORDS = [
     "physikalische chemie",
     "thermodynamik",
     "elektrotechnik",
-    "metallbau",
-    "rechnergestütz",   # korrekt geschrieben, wir normalisieren unten
+    "metallbau",   # korrekt geschrieben, wir normalisieren unten
 ]
 
 # ==============================
