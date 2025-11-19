@@ -52,6 +52,40 @@ PRIORITY:5
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RechnergestÃ¼tztes Konstruieren
+DTSTART;TZID=Europe/Berlin:20251121T081500
+DTEND;TZID=Europe/Berlin:20251121T113000
+DTSTAMP:20251119T100140Z
+UID:sked.de290348
+SEQUENCE:0
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DESCRIPTION:Veranstaltung: RechnergestÃ¼tztes Konstruieren\nDozent: Leon
+ hardt\nDatum: Fr\, 21.11.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nA
+ rt: SV\nRaum: LW0114\nStudiengruppe: 24BTS-CPV-3\, 24BTS-EAT-3\, 24BTS-MEC
+ -3\, 24BTS-TIN-3\nAnmerkung: -
+LOCATION:LW0114
+PRIORITY:5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RechnergestÃ¼tztes Konstruieren
+DTSTART;TZID=Europe/Berlin:20251125T081500
+DTEND;TZID=Europe/Berlin:20251125T113000
+DTSTAMP:20251119T100140Z
+UID:sked.de290351
+SEQUENCE:0
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DESCRIPTION:Veranstaltung: RechnergestÃ¼tztes Konstruieren\nDozent: Leon
+ hardt\nDatum: Di\, 25.11.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nA
+ rt: SV\nRaum: LW0114\nStudiengruppe: 24BTS-CPV-3\, 24BTS-EAT-3\, 24BTS-MEC
+ -3\, 24BTS-TIN-3\nAnmerkung: -
+LOCATION:LW0114
+PRIORITY:5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Technische Physik - Physikalische Modelle
 DTSTART;TZID=Europe/Berlin:20251127T154500
 DTEND;TZID=Europe/Berlin:20251127T190000
@@ -122,6 +156,23 @@ PRIORITY:5
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RechnergestÃ¼tztes Konstruieren
+DTSTART;TZID=Europe/Berlin:20251202T121500
+DTEND;TZID=Europe/Berlin:20251202T153000
+DTSTAMP:20251119T100140Z
+UID:sked.de290352
+SEQUENCE:0
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DESCRIPTION:Veranstaltung: RechnergestÃ¼tztes Konstruieren\nDozent: Leon
+ hardt\nDatum: Di\, 02.12.25\nUhrzeit: 12:15 - 15:30 Uhr\nDauer: 4:00 Uhr\n
+ Art: SV\nRaum: LW0114\nStudiengruppe: 24BTS-CPV-3\, 24BTS-EAT-3\, 24BTS-ME
+ C-3\, 24BTS-TIN-3\nAnmerkung: -
+LOCATION:LW0114
+PRIORITY:5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Technische Physik - Physikalische Modelle
 DTSTART;TZID=Europe/Berlin:20251202T154500
 DTEND;TZID=Europe/Berlin:20251202T190000
@@ -139,6 +190,23 @@ PRIORITY:5
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RechnergestÃ¼tztes Konstruieren
+DTSTART;TZID=Europe/Berlin:20251203T081500
+DTEND;TZID=Europe/Berlin:20251203T113000
+DTSTAMP:20251119T100140Z
+UID:sked.de290353
+SEQUENCE:0
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DESCRIPTION:Veranstaltung: RechnergestÃ¼tztes Konstruieren\nDozent: Leon
+ hardt\nDatum: Mi\, 03.12.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nA
+ rt: SV\nRaum: LW0114\nStudiengruppe: 24BTS-CPV-3\, 24BTS-EAT-3\, 24BTS-MEC
+ -3\, 24BTS-TIN-3\nAnmerkung: -
+LOCATION:LW0114
+PRIORITY:5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Statistik
 DTSTART;TZID=Europe/Berlin:20251208T154500
 DTEND;TZID=Europe/Berlin:20251208T190000
@@ -151,6 +219,23 @@ DESCRIPTION:Veranstaltung: Statistik\nDozent: Grunwald\nDatum: Mo\, 08.12.
  25\nUhrzeit: 15:45 - 19:00 Uhr\nDauer: 4:00 Uhr\nArt: SV\nRaum: KA0004\nSt
  udiengruppe: 24BTS-CPV-3\, 24BTS-MAS-3\nAnmerkung: -
 LOCATION:KA0004
+PRIORITY:5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RechnergestÃ¼tztes Konstruieren
+DTSTART;TZID=Europe/Berlin:20251212T081500
+DTEND;TZID=Europe/Berlin:20251212T113000
+DTSTAMP:20251119T100140Z
+UID:sked.de291018
+SEQUENCE:0
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DESCRIPTION:Veranstaltung: RechnergestÃ¼tztes Konstruieren\nDozent: Leon
+ hardt\nDatum: Fr\, 12.12.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nA
+ rt: SV\nRaum: LW0114\nStudiengruppe: 24BTS-CPV-3\, 24BTS-EAT-3\, 24BTS-MEC
+ -3\, 24BTS-TIN-3\nAnmerkung: -
+LOCATION:LW0114
 PRIORITY:5
 TRANSP:OPAQUE
 END:VEVENT
@@ -188,6 +273,23 @@ PRIORITY:5
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:RechnergestÃ¼tztes Konstruieren
+DTSTART;TZID=Europe/Berlin:20251219T081500
+DTEND;TZID=Europe/Berlin:20251219T113000
+DTSTAMP:20251119T100140Z
+UID:sked.de291019
+SEQUENCE:0
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DESCRIPTION:Veranstaltung: RechnergestÃ¼tztes Konstruieren\nDozent: Leon
+ hardt\nDatum: Fr\, 19.12.25\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nA
+ rt: SV\nRaum: LW0114\nStudiengruppe: 24BTS-CPV-3\, 24BTS-EAT-3\, 24BTS-MEC
+ -3\, 24BTS-TIN-3\nAnmerkung: -
+LOCATION:LW0114
+PRIORITY:5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Technische Physik - Physikalische Modelle
 DTSTART;TZID=Europe/Berlin:20260107T154500
 DTEND;TZID=Europe/Berlin:20260107T190000
@@ -201,6 +303,23 @@ DESCRIPTION:Veranstaltung: Technische Physik - Physikalische Modelle\nDoze
  hr\nArt: SV\nRaum: KD0002\nStudiengruppe: 24BTS-CPV-3\, 24BTS-EAT-3\, 24BT
  S-MEC-3\, 24BTS-TIN-3\nAnmerkung: -
 LOCATION:KD0002
+PRIORITY:5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RechnergestÃ¼tztes Konstruieren
+DTSTART;TZID=Europe/Berlin:20260108T081500
+DTEND;TZID=Europe/Berlin:20260108T113000
+DTSTAMP:20251119T100141Z
+UID:sked.de291311
+SEQUENCE:0
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DESCRIPTION:Veranstaltung: RechnergestÃ¼tztes Konstruieren\nDozent: Leon
+ hardt\nDatum: Do\, 08.01.26\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nA
+ rt: SV\nRaum: LW0114\nStudiengruppe: 24BTS-CPV-3\, 24BTS-EAT-3\, 24BTS-MEC
+ -3\, 24BTS-TIN-3\nAnmerkung: -
+LOCATION:LW0114
 PRIORITY:5
 TRANSP:OPAQUE
 END:VEVENT
@@ -251,6 +370,23 @@ DESCRIPTION:Veranstaltung: Technische Physik - Physikalische Modelle\nDoze
  hr\nArt: SV\nRaum: KD0004\nStudiengruppe: 24BTS-CPV-3\, 24BTS-EAT-3\, 24BT
  S-MEC-3\, 24BTS-TIN-3\nAnmerkung: -
 LOCATION:KD0004
+PRIORITY:5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:RechnergestÃ¼tztes Konstruieren
+DTSTART;TZID=Europe/Berlin:20260113T081500
+DTEND;TZID=Europe/Berlin:20260113T113000
+DTSTAMP:20251119T100141Z
+UID:sked.de291314
+SEQUENCE:0
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DESCRIPTION:Veranstaltung: RechnergestÃ¼tztes Konstruieren\nDozent: Leon
+ hardt\nDatum: Di\, 13.01.26\nUhrzeit: 8:15 - 11:30 Uhr\nDauer: 4:00 Uhr\nA
+ rt: SV\nRaum: LW0114\nStudiengruppe: 24BTS-CPV-3\, 24BTS-EAT-3\, 24BTS-MEC
+ -3\, 24BTS-TIN-3\nAnmerkung: -
+LOCATION:LW0114
 PRIORITY:5
 TRANSP:OPAQUE
 END:VEVENT
