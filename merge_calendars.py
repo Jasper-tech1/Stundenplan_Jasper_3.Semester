@@ -130,7 +130,7 @@ def main():
     cal = build_merged_calendar()
     ics_data = cal.to_ical()
 
-    output_path = "merged_calendar.ics"
+    output_path = "Stundenplan.ics"
     with open(output_path, "wb") as f:
         f.write(ics_data)
 
