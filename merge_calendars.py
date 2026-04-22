@@ -7,16 +7,16 @@ from icalendar import Calendar
 # ==============================
 
 FEED_URLS = [
-    "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-CPV-3.ics",
-    "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-EAT-3.ics",
+    "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-MAS-4.ics",
+    "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-EAT-4.ics",
 ]
 
 # Module, die du NICHT sehen willst
 EXCLUDE_KEYWORDS = [
-    "grundlagen data science",
+    "Entwurfsberechnung statischer Systeme",
     "englisch",
-    "physikalische chemie",
-    "thermodynamik",
+    "Fluidmechanik",
+    "Konstruktion technischer Baugruppen",
     "elektrotechnik",
     "metallbau",   # korrekt geschrieben, wir normalisieren unten
 ]
