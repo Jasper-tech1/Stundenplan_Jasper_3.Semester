@@ -7,8 +7,8 @@ from icalendar import Calendar
 # ==============================
 
 FEED_URLS = [
-    "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-MAS-4.html",
-    "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-EAT-4.html",
+    "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-MAS-4.ics",
+    "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-EAT-4.ics",
 ]
 
 # Module, die NICHT im Kalender erscheinen sollen
