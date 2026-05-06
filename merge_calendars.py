@@ -14,7 +14,8 @@ EXCLUDE_KEYWORDS = [
     "Fluidmechanik",
     "Konstruktion technischer Baugruppen",
     "elektrotechnik",
-    "metallbau",
+    "metallbau"
+    "innovative werkstoffe",
 ]
 
 OUTPUT_FILE = "merged_calendar.ics"
