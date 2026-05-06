@@ -4,7 +4,6 @@ from copy import deepcopy
 from icalendar import Calendar
 
 FEED_URLS = [
-    "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-MAS-4.ics",
     "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-EAT-4.ics",
 ]
 
@@ -14,8 +13,7 @@ EXCLUDE_KEYWORDS = [
     "Fluidmechanik",
     "Konstruktion technischer Baugruppen",
     "elektrotechnik",
-    "metallbau"
-    "innovative werkstoffe",
+    "metallbau",
 ]
 
 OUTPUT_FILE = "merged_calendar.ics"
