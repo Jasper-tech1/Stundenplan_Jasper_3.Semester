@@ -5,37 +5,4 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Uni Stundenplan
 X-WR-TIMEZONE:Europe/Berlin
-BEGIN:VEVENT
-SUMMARY:Digitale Signalverarbeitung
-DTSTART;TZID=Europe/Berlin:20260629T081500
-DTEND;TZID=Europe/Berlin:20260629T153000
-DTSTAMP:20260705T230101Z
-UID:sked.de300490
-SEQUENCE:0
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DESCRIPTION:Veranstaltung: Digitale Signalverarbeitung Dozent: Ahuis\, Vog
- es Datum: Mo\, 29.06.26 Uhrzeit: 8:15 - 15:30 Dauer: 8:00 Art: PL Raum: KE
- 0104 Studiengruppe: 24BTS-EAT-4\, 24BTS-MEC-4\, 24BTS-TIN-4 Anmerkung: -
-LOCATION:KE0104
-PRIORITY:5
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Systemanalyse und quantitative Entscheidungstheorie
-DTSTART;TZID=Europe/Berlin:20260701T130000
-DTEND;TZID=Europe/Berlin:20260701T210000
-DTSTAMP:20260705T230101Z
-UID:sked.de300808
-SEQUENCE:0
-CATEGORIES:sked.de
-CLASS:PUBLIC
-DESCRIPTION:Veranstaltung: Systemanalyse und quantitative Entscheidungsthe
- orie Dozent: Arens-Fischer\, Schlangen Datum: Mi\, 01.07.26 Uhrzeit: 13:00
-  - 21:00 Dauer: 9:00 Art: PL Raum: LN0002 Studiengruppe: 24BTS-CPV-4\, 24B
- TS-EAT-4\, 24BTS-MAS-4\, 24BTS-MEC-4\, 24BTS-TIN-4 Anmerkung: -
-LOCATION:LN0002
-PRIORITY:5
-TRANSP:OPAQUE
-END:VEVENT
 END:VCALENDAR
