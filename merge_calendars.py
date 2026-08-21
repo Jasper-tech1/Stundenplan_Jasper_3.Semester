@@ -4,16 +4,24 @@ from copy import deepcopy
 from icalendar import Calendar
 
 FEED_URLS = [
-    "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-EAT-4.ics",
+    "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-EAT-5.ics",
+    "https://sked.lin.hs-osnabrueck.de/sked/grp/24DNE-VTM-5.ics",
+    "https://sked.lin.hs-osnabrueck.de/sked/grp/24DNE-PRM-5.ics",
+    "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-CPV-5.ics",
+    "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-TIN-5.ics",
+    "https://sked.lin.hs-osnabrueck.de/sked/grp/24DNI-IMA-5.ics",
+    
 ]
 
-EXCLUDE_KEYWORDS = [
-    "Entwurfsberechnung statischer Systeme",
-    "englisch",
-    "Fluidmechanik",
-    "Konstruktion technischer Baugruppen",
-    "elektrotechnik",
-    "metallbau",
+INCLUDE_KEYWORDS = [
+    "Mess- und Sensortechnik",
+    "Verteilte Systeme",
+    "Produktionsplanung und -steuerung",
+    "Agiles Projektmanagement & Change Management",
+    "Technical Communication and Documentation",
+    "Nachhaltiges Technologiemanagement",
+    "Experimentelle Steuerungs- und Digitaltechnik",
+    "Projektierung technischer Systeme",
 ]
 
 OUTPUT_FILE = "merged_calendar.ics"
