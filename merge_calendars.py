@@ -15,7 +15,7 @@ FEED_URLS = [
 # Nur diese Module werden in den neuen Kalender übernommen
 INCLUDE_KEYWORDS = [
     "Mess- und Sensortechnik",
-    "Methoden der KI - Deep and Reinforcement Learning",
+    "Methoden der KI – Deep & Reinforcement Learning",
     "Produktionsplanung und -steuerung",
     "Agiles Projektmanagement & Change Management",
     "Experimentelle Steuerungs- und Digitaltechnik",
