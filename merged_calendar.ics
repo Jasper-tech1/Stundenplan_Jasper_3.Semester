@@ -566,4 +566,174 @@ LOCATION:KD0101
 PRIORITY:5
 TRANSP:OPAQUE
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Methoden der KI - Deep and Reinforcement Learning
+DTSTART;TZID=Europe/Berlin:20260825T121500
+DTEND;TZID=Europe/Berlin:20260825T153000
+DTSTAMP:20260824T160107Z
+UID:sked.de307198
+SEQUENCE:0
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DESCRIPTION:Veranstaltung: Methoden der KI - Deep and Reinforcement Learni
+ ng Dozent: Guericke Datum: Di\, 25.08.26 Uhrzeit: 12:15 - 15:30 Dauer: 4:0
+ 0 Art: SV Raum: KD0003 Studiengruppe: 24BTS-TIN-5\, 24DNI-IBM-5\, 24DNI-IM
+ A-5 Anmerkung: -
+LOCATION:KD0003
+PRIORITY:5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Methoden der KI - Deep and Reinforcement Learning
+DTSTART;TZID=Europe/Berlin:20260827T081500
+DTEND;TZID=Europe/Berlin:20260827T113000
+DTSTAMP:20260824T160107Z
+UID:sked.de307199
+SEQUENCE:0
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DESCRIPTION:Veranstaltung: Methoden der KI - Deep and Reinforcement Learni
+ ng Dozent: Guericke Datum: Do\, 27.08.26 Uhrzeit: 8:15 - 11:30 Dauer: 4:00
+  Art: SV Raum: KD0003 Studiengruppe: 24BTS-TIN-5\, 24DNI-IBM-5\, 24DNI-IMA
+ -5 Anmerkung: -
+LOCATION:KD0003
+PRIORITY:5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Methoden der KI - Deep and Reinforcement Learning
+DTSTART;TZID=Europe/Berlin:20260901T081500
+DTEND;TZID=Europe/Berlin:20260901T113000
+DTSTAMP:20260824T160107Z
+UID:sked.de307206
+SEQUENCE:0
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DESCRIPTION:Veranstaltung: Methoden der KI - Deep and Reinforcement Learni
+ ng Dozent: Guericke Datum: Di\, 01.09.26 Uhrzeit: 8:15 - 11:30 Dauer: 4:00
+  Art: SV Raum: KD0002 Studiengruppe: 24BTS-TIN-5\, 24DNI-IBM-5\, 24DNI-IMA
+ -5 Anmerkung: -
+LOCATION:KD0002
+PRIORITY:5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Methoden der KI - Deep and Reinforcement Learning
+DTSTART;TZID=Europe/Berlin:20260903T081500
+DTEND;TZID=Europe/Berlin:20260903T113000
+DTSTAMP:20260824T160107Z
+UID:sked.de307207
+SEQUENCE:0
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DESCRIPTION:Veranstaltung: Methoden der KI - Deep and Reinforcement Learni
+ ng Dozent: Guericke Datum: Do\, 03.09.26 Uhrzeit: 8:15 - 11:30 Dauer: 4:00
+  Art: SV Raum: KD0002 Studiengruppe: 24BTS-TIN-5\, 24DNI-IBM-5\, 24DNI-IMA
+ -5 Anmerkung: -
+LOCATION:KD0002
+PRIORITY:5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Methoden der KI - Deep and Reinforcement Learning
+DTSTART;TZID=Europe/Berlin:20260907T081500
+DTEND;TZID=Europe/Berlin:20260907T113000
+DTSTAMP:20260824T160107Z
+UID:sked.de308063
+SEQUENCE:0
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DESCRIPTION:Veranstaltung: Methoden der KI - Deep and Reinforcement Learni
+ ng Dozent: Guericke Datum: Mo\, 07.09.26 Uhrzeit: 8:15 - 11:30 Dauer: 4:00
+  Art: SV Raum: KD0301 Studiengruppe: 24BTS-TIN-5\, 24DNI-IBM-5\, 24DNI-IMA
+ -5 Anmerkung: -
+LOCATION:KD0301
+PRIORITY:5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Methoden der KI - Deep and Reinforcement Learning
+DTSTART;TZID=Europe/Berlin:20260908T121500
+DTEND;TZID=Europe/Berlin:20260908T153000
+DTSTAMP:20260824T160107Z
+UID:sked.de307977
+SEQUENCE:0
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DESCRIPTION:Veranstaltung: Methoden der KI - Deep and Reinforcement Learni
+ ng Dozent: Guericke Datum: Di\, 08.09.26 Uhrzeit: 12:15 - 15:30 Dauer: 4:0
+ 0 Art: SV Raum: KD0304 Studiengruppe: 24BTS-TIN-5\, 24DNI-IBM-5\, 24DNI-IM
+ A-5 Anmerkung: -
+LOCATION:KD0304
+PRIORITY:5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Methoden der KI - Deep and Reinforcement Learning
+DTSTART;TZID=Europe/Berlin:20260928T081500
+DTEND;TZID=Europe/Berlin:20260928T113000
+DTSTAMP:20260824T160107Z
+UID:sked.de307979
+SEQUENCE:0
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DESCRIPTION:Veranstaltung: Methoden der KI - Deep and Reinforcement Learni
+ ng Dozent: Guericke Datum: Mo\, 28.09.26 Uhrzeit: 8:15 - 11:30 Dauer: 4:00
+  Art: SV Raum: KD0004 Studiengruppe: 24BTS-TIN-5\, 24DNI-IBM-5\, 24DNI-IMA
+ -5 Anmerkung: -
+LOCATION:KD0004
+PRIORITY:5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Methoden der KI - Deep and Reinforcement Learning
+DTSTART;TZID=Europe/Berlin:20260930T121500
+DTEND;TZID=Europe/Berlin:20260930T153000
+DTSTAMP:20260824T160107Z
+UID:sked.de307980
+SEQUENCE:0
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DESCRIPTION:Veranstaltung: Methoden der KI - Deep and Reinforcement Learni
+ ng Dozent: Guericke Datum: Mi\, 30.09.26 Uhrzeit: 12:15 - 15:30 Dauer: 4:0
+ 0 Art: SV Raum: KA0005 Studiengruppe: 24BTS-TIN-5\, 24DNI-IBM-5\, 24DNI-IM
+ A-5 Anmerkung: -
+LOCATION:KA0005
+PRIORITY:5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Methoden der KI - Deep and Reinforcement Learning
+DTSTART;TZID=Europe/Berlin:20261005T081500
+DTEND;TZID=Europe/Berlin:20261005T113000
+DTSTAMP:20260824T160107Z
+UID:sked.de307981
+SEQUENCE:0
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DESCRIPTION:Veranstaltung: Methoden der KI - Deep and Reinforcement Learni
+ ng Dozent: Guericke Datum: Mo\, 05.10.26 Uhrzeit: 8:15 - 11:30 Dauer: 4:00
+  Art: SV Raum: KD0002 Studiengruppe: 24BTS-TIN-5\, 24DNI-IBM-5\, 24DNI-IMA
+ -5 Anmerkung: -
+LOCATION:KD0002
+PRIORITY:5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Methoden der KI - Deep and Reinforcement Learning
+DTSTART;TZID=Europe/Berlin:20261006T121500
+DTEND;TZID=Europe/Berlin:20261006T153000
+DTSTAMP:20260824T160107Z
+UID:sked.de307982
+SEQUENCE:0
+CATEGORIES:sked.de
+CLASS:PUBLIC
+DESCRIPTION:Veranstaltung: Methoden der KI - Deep and Reinforcement Learni
+ ng Dozent: Guericke Datum: Di\, 06.10.26 Uhrzeit: 12:15 - 15:30 Dauer: 4:0
+ 0 Art: SV Raum: KA0005 Studiengruppe: 24BTS-TIN-5\, 24DNI-IBM-5\, 24DNI-IM
+ A-5 Anmerkung: -
+LOCATION:KA0005
+PRIORITY:5
+TRANSP:OPAQUE
+END:VEVENT
 END:VCALENDAR
