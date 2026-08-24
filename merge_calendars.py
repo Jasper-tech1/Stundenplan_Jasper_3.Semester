@@ -7,22 +7,17 @@ from icalendar import Calendar
 # Kalenderquellen
 FEED_URLS = [
     "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-EAT-5.ics",
-    "https://sked.lin.hs-osnabrueck.de/sked/grp/24DNE-VTM-5.ics",
-    "https://sked.lin.hs-osnabrueck.de/sked/grp/24DNE-PRM-5.ics",
-    "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-CPV-5.ics",
-    "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-TIN-5.ics",
-    "https://sked.lin.hs-osnabrueck.de/sked/grp/24DNI-IMA-5.ics",
+    "https://sked.lin.hs-osnabrueck.de/sked/grp/24DNE-PDM-5.ics",
+    
 ]
 
 
 # Nur diese Module werden in den neuen Kalender übernommen
 INCLUDE_KEYWORDS = [
     "Mess- und Sensortechnik",
-    "Verteilte Systeme",
+    "Methoden der KI - Deep and Reinforcement Learning",
     "Produktionsplanung und -steuerung",
     "Agiles Projektmanagement & Change Management",
-    "Technical Communication and Documentation",
-    "Nachhaltiges Technologiemanagement",
     "Experimentelle Steuerungs- und Digitaltechnik",
     "Projektierung technischer Systeme",
 ]
