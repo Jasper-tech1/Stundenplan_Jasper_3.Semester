@@ -7,7 +7,7 @@ from icalendar import Calendar
 # Kalenderquellen
 FEED_URLS = [
     "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-EAT-5.ics",
-    "https://sked.lin.hs-osnabrueck.de/sked/grp/24DNE-PDM-5.ics",
+    "https://sked.lin.hs-osnabrueck.de/sked/grp/24BTS-TIN-5.ics",
     
 ]
 
